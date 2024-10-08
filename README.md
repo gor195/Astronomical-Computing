@@ -10,7 +10,7 @@ Welcome to the repository for Assignment 3 of the course ASTR4004/8004 Computati
 
 - **data/**:  
   Contains all datasets required for the assignment.
-- **figures/**
+- **figures/**:
   Contains all figures created in the assignment.
 
 ## How to Use
